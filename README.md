@@ -10,6 +10,6 @@ The major codes of this project was orginally created by Rasha(GitHub username: 
 
 Datasets where provide by Rasha in via kaggle (https://www.kaggle.com/rashasalim/blood-smear-images-for-aml-diagnosis)
 
-This is spurred to re-engineer her work and possibly improve it.
+This is spurred to replicate her work and possibly improve it.
 
 Your feedbacks are highly welcome
