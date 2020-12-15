@@ -8,8 +8,6 @@ Original Implementation can be found: https://codeocean.com/capsule/9068249/tree
 
 The major codes of this project was orginally created by Rasha(GitHub username: @gamesMum(https://github.com/gamesMum/Leukemia-Diagnostics)) 
 
-Datasets where provide by Rasha in via kaggle (https://www.kaggle.com/rashasalim/blood-smear-images-for-aml-diagnosis)
-
-This is spurred to replicate her work and possibly improve it.
+Datasets where provide in via kaggle (https://www.kaggle.com/lsaa2014/single-cell-morphological-dataset-of-leukocytes)
 
 Your feedbacks are highly welcome
